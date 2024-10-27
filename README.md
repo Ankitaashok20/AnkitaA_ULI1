@@ -30,4 +30,18 @@ The cross mark on the right corner of each task is for deleting the particular t
 If you click on a particular task you can edit it.
 ![Screenshot 2024-10-27 153323](https://github.com/user-attachments/assets/cef9a593-8a3c-431d-9b90-73872a3505f5)
 
+4.When the plus symbol or when a particular task  is clicked on you will be redirected to this page,where you can add your task or edit it accordingly.
+
+![Screenshot 2024-10-27 153337](https://github.com/user-attachments/assets/936ec3bb-0099-44c7-bd04-e9e658c43fce)
+
+5.This shows the search functionality when the user enters a task to be searched in the task bar.
+![Screenshot 2024-10-27 153355](https://github.com/user-attachments/assets/8d584775-3450-42d0-9738-36df7023b14b)
+
+6.This is the confirmation page that appears before deleting a particular task.
+![Screenshot 2024-10-27 155456](https://github.com/user-attachments/assets/c7d54576-88c6-4e69-9362-900f67fb7872)
+
+7.This shows that the tasks entered by each user is shown only to the particular user once they login.
+![image](https://github.com/user-attachments/assets/0c29eb1a-8e77-42fa-9b49-2756bcdb90fb)
+
+
 
