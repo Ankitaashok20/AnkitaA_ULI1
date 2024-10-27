@@ -14,3 +14,5 @@ c.Search Functionality
 
 3.Search functionality
 a.Search tasks based on titles or keywords
+
+![Screenshot 2024-10-27 153238](https://github.com/user-attachments/assets/ee0ae240-7dde-490d-a412-f10fc6fa39de)
